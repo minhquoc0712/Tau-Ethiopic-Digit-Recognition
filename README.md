@@ -6,6 +6,8 @@ Our team using a Multi-column deep neural network [2]. Specific of our implement
 We have run on 50 epoch, batch size of 100, and annealing learning rate start with 0.001, multiplied with 0.993 after each epoch, until it reaches 0.00003. 
 We have used Cross Entropy Loss function and Adam optimizer.
 
+The repository needs to be organized.
+
 Reference: 
 
 [1] Wu, Daniel J., Andrew C. Yang, and Vinay U. Prabhu. "Afro-MNIST: Synthetic generation of MNIST-style datasets for low-resource languages." arXiv preprint arXiv:2009.13509 (2020).
