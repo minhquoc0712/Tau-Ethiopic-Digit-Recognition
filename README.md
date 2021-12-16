@@ -1,5 +1,5 @@
 # Tau-Ethiopic-Digit-Recognition-using-Multicolumn-DNN
-This project is a competition organzied by Pattern Recognition and Machine Learning 2020-2021 course at Tampere University. The topic is about recognizing Ethiopic digit in Afro-MNIST dataset [1] using machine learning method.
+This project is a competition organized by the Pattern Recognition and Machine Learning 2020-2021 course at Tampere University. The topic is about recognizing Ethiopic digits in the Afro-MNIST dataset [1] using the machine learning method.
 
 Our team using a Multi-column deep neural network [2]. Specific of our implementation is 5 columns of DNN with input size of images for each column are (28, 28), (28, 26). (28, 24), (28, 22), (28, 20). 
 
